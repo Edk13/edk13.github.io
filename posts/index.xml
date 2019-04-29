@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Our story</title>
+    <link>https://reuzdoi.com/posts/</link>
+    <description>Recent content in Posts on Our story</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 15:34:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://reuzdoi.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello！初めましての自己紹介</title>
+      <link>https://reuzdoi.com/posts/first-post/</link>
+      <pubDate>Mon, 29 Apr 2019 15:34:27 +0200</pubDate>
+      
+      <guid>https://reuzdoi.com/posts/first-post/</guid>
+      <description>初めまして。ロイズです。
+最初このブログ作るのはAWSの練習として考えてますが、
+彼女にサプライズをしたいですので、私たちの物語の記録用となりました。
+Aboutでもかいてあるんですが、改めて自己紹介をします。
+私たちは在独中国人のロイズと日本人のミロのレズカップルです。
+LGBTを受け入れられない方はすみませんが、
+このブログはほとんど私たち現実であったことを書く用です。
+もちろん、LGBTに関係なく、ただの二人の女の子の日常生活とか、
+留学生の生活とかも書くと思います。
+更新率不安定ですが、
+よろしくお願いします。</description>
+    </item>
+    
+  </channel>
+</rss>

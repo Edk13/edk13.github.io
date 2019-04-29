@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://reuzdoi.com/about/</loc>
+    <lastmod>2019-04-29T15:40:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reuzdoi.com/about/</loc>
+    <lastmod>2019-04-29T15:40:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reuzdoi.com/</loc>
+    <lastmod>2019-04-29T15:40:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reuzdoi.com/posts/first-post/</loc>
+    <lastmod>2019-04-29T15:34:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reuzdoi.com/posts/</loc>
+    <lastmod>2019-04-29T15:34:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reuzdoi.com/tags/</loc>
+    <lastmod>2019-04-29T15:34:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reuzdoi.com/tags/%E6%8C%A8%E6%8B%B6/</loc>
+    <lastmod>2019-04-29T15:34:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
